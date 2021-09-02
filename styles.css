@@ -1,0 +1,41 @@
+.container {
+   background-color: cyan;
+   font-family: 'Kaisei HarunoUmi', serif;
+   display: flex; 
+   flex-direction: row; 
+   flex-basis: auto;
+   flex-wrap: nowrap; 
+   align-items: center; 
+}  
+
+#navbar {
+   background-color: blueviolet;
+   font-family: Arial; 
+   font-size: 16; 
+   text-decoration: underline; 
+   align-items: center;
+}
+
+#logo {
+   height: 200; 
+   width: 300; 
+   align: center; 
+}
+
+h1 {
+   font-size: 14;
+   font-style: bold; 
+}
+
+p {
+   font-size: 12; 
+}
+
+img {
+   height: 300;
+   width: 400; 
+}
+
+#footer {
+    font-size: 12; 
+}
